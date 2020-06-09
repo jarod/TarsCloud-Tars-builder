@@ -1,0 +1,4 @@
+[submodule "Tars"]
+	path = Tars
+	url = https://github.com/TarsCloud/Tars.git
+	branch = master

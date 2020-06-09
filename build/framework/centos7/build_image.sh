@@ -1,0 +1,1 @@
+docker build -t miya-tars/builder:centos7 .
